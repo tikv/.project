@@ -2,7 +2,10 @@
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
 
 
-#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+# CNCF contacts: https://github.com/cncf/foundation/blob/main/project-maintainers.csv
+# GitHub handles: https://github.com/tikv/community/blob/master/GOVERNANCE.md
+# Maintainers: Complete the LFID onboarding steps in README.md. This roster does
+# not verify LFID registration, GitHub linking, email, or company affiliation.
 maintainers:
   - project_id: "tikv"
     org: "tikv"
@@ -11,7 +14,7 @@ maintainers:
         members:
           - siddontang
           - busyjay
-          - zhangjinpeng1987
+          - zhangjinpeng87
           - winkyao
           - sunxiaoguang
           - lidaobing

@@ -7,11 +7,6 @@ name: "TiKV"
 description: "A distributed transactional key-value database. Based on the design of Google Spanner and HBase, but simpler to manage and without dependencies on any distributed filesystem"
 type: "project"
 project_lead: "siddontang"
-slack_channels:
-  - name: "#general"
-    workspace: "tikv-wg"
-    link: "https://slack.tidb.io/invite?team=tikv-wg&channel=general"
-    primary: true
 
 maturity_log:
   - phase: "sandbox"

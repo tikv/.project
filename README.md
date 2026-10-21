@@ -22,7 +22,8 @@ The validate workflow will check schema correctness and block merge if validatio
 ## Metadata sources
 
 - The [TiKV README](https://github.com/tikv/tikv/blob/master/README.md) identifies
-  the primary repository and the TiKV Slack workspace's `#general` channel.
+  the primary repository. Slack metadata is omitted because the previously
+  advertised invitation is no longer valid.
 - CNCF announced TiKV's [Sandbox acceptance on August 28, 2018](https://www.cncf.io/blog/2018/08/28/cncf-to-host-tikv-in-the-sandbox/),
   [incubation on May 21, 2019](https://www.cncf.io/blog/2019/05/21/toc-votes-to-move-tikv-into-cncf-incubator/),
   and [graduation on September 2, 2020](https://www.cncf.io/announcements/2020/09/02/cloud-native-computing-foundation-announces-tikv-graduation/).

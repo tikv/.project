@@ -28,7 +28,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://tikv.org"
 
-artwork: "https://landscape.cncf.io/logos/tikv.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/tikv"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
